@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://woodysci.github.io
+title: Woodruff Science
+tagline: Thoughts on Science and Technology
+description: My awesome new site
+paginate: 5
